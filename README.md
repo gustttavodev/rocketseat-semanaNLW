@@ -1,14 +1,3 @@
-## :rocket: Technologies
-
-- [Node.js][nodejs]
-
-- [TypeScript][typescript]
-
-- [React][reactjs]
-
-- [React Native][rn]
-
-- [Expo][expo]
 
 # 🔖 Layout
 
